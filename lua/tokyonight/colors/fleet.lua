@@ -35,3 +35,4 @@ local ret = {
     delete = "#A55E6A",
   },
 }
+return ret
